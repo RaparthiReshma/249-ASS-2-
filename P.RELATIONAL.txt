@@ -1,0 +1,39 @@
+//Relational operations//
+
+x=int(input("Enter the value of x:"))
+y=int(input("Enter the value of y:"))
+if x>y:
+    print("The given condition is true")
+else:
+    print("The given condition is false")
+if x<y:    
+    print("The given condition is true")
+else:
+    print("The given condition is false")
+if x<=y:
+    print("The given condition is true")
+else:
+    print("The given condition is false")
+if x>=y:
+    print("The given condition is true")
+else:
+    print("The given condition is false")
+if x==y:
+    print("The given condition is true")
+else:
+    print("The given condition is false")
+if x!=y:
+    print("The given condition is true")
+else:
+    print("The given condition is false")
+
+//OUTPUT//
+Enter the value of x:32
+Enter the value of y:25
+The given condition is true
+The given condition is false
+The given condition is false
+The given condition is true
+The given condition is false
+The given condition is true
+> 
